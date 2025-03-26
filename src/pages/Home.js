@@ -49,7 +49,8 @@ export default function Home() {
                         {user.photoURL && (
                             <img 
                               src={user.photoURL} 
-                              className="w-12 h-12 object-cover aspect-square rounded-lg" 
+                              className="w-12 h-12 object-cover aspect-square rounded-lg"
+                              alt="User Profile" 
                             />
                         )}
                         <h1 className="text-lg font-semibold text-gray-800">

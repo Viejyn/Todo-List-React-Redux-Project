@@ -13,7 +13,7 @@
 
 📱 Responsive Design: With a mobile compatible and stylish design, it can be used easily on any device.
 
-###  Technologies Used
+### 👩‍💻 Technologies Used
 
 <li>React</li>
 <li>React-Redux</li>

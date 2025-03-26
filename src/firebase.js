@@ -14,7 +14,7 @@ import {
 import { getFirestore, collection, addDoc, onSnapshot, where, query, doc, deleteDoc } from "firebase/firestore";
 import toast from "react-hot-toast";
 import store from "./store";
-import { login as loginHandle, logout as logoutHandle } from "./store/auth";
+import { logout as logoutHandle } from "./store/auth";
 import { openModal } from "./store/modal";
 import { setTodos } from "./store/todos";
 import { setUserData } from "./utils";
